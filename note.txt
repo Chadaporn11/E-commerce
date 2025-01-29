@@ -7,7 +7,7 @@ npm i react-image-file-resizer
 npm i react-responsive-carousel
 npm i lodash
 npm i react-quill --force
-==========================================
+===========================================
 npm i @react-pdf/renderer --force
 
 -Edit client/package.json-
@@ -26,7 +26,8 @@ npm i @react-pdf/renderer --force
   }
 
 After >npm install
-==========================================
+===========================================
 
 npm i @david.kucsai/react-pdf-table --force
 
+ok
